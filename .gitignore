@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# aws amplify configuration
+/src/aws-exports.js
+
 # production
 /build
 
